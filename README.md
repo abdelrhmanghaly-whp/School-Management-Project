@@ -1,6 +1,5 @@
 # School-Management-Project
-Uncompleted College project
+Uncompleted College project because of time pressure, also i am not a fan of java anymore to compelete it.
+pros: first time using GUI.
+cons: its not compeleted 
 
-Java Team Project --> we didnt complete it so far, also none of us is a java developer
-# Note 
-this is our first project using a GUI
