@@ -1,5 +1,2 @@
 # School-Management-Project
-Uncompleted College project because of time pressure, also i am not a fan of java anymore to compelete it.<br>
-pros: first time using GUI.<br>
-cons: its not compeleted.
-
+School Management Project using Object Oriented Programming, GUI included
